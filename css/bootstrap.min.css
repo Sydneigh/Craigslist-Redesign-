@@ -53,6 +53,15 @@
     position: relative;
     margin-bottom: 30px;
 }
+
+.parent1 {
+    background-image: url(../images/gigs.jpg);
+    
+    background-size: cover;
+    height: 488px;
+    position: relative;
+    margin-bottom: 30px;
+}
 .parent h1 {
     font-size: 64px !important;
     font-size: 20px;
