@@ -1,5 +1,5 @@
-@import url(' href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
-:root {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
   font-family: 'Roboto';
 }
 .u-section-1 {
@@ -13,7 +13,10 @@
 }
 
 
-
+.breadcrumb {
+  background-color: #FFFFFF !important;
+  margin-left: 12%;
+}
 .u-section-1 .u-text-1 {
   width: 366px;
   margin: 44px auto 0;
@@ -1318,6 +1321,7 @@ ol {
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
+  font-family: 'Roboto';
 }
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc):not(.u-cart-block-content):not(.u-checkout-block-content) a {
   color: inherit;
